@@ -9,4 +9,11 @@ En este Github podreís encontrar todos los trabajos que voy realizando en mis c
 Actualmente me encuentro en un nivel de:
 HTML = inicial
 CSS = inicial
-JS = Nos encontramos en guerra 🤯, pero pronto nos querremos ❤️
+JS = 
+
+## Tecnologías aprendidas
+![HTML5](https://img.shields.io/badge/HTML-5-green) <br/>
+![CSS3](https://img.shields.io/badge/CSS-3-blue) <br/>
+![JavaScriptES6](https://img.shields.io/badge/JavaScript-ES6-orange) Nos encontramos en guerra 🤯, pero pronto nos querremos ❤️ <br/>
+![Json](https://img.shields.io/badge/Json-purple) <br/>
+![React](https://img.shields.io/badge/React%20-%2018.1%20-%20yellow) <br/>
